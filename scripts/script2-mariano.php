@@ -3,7 +3,7 @@
 /**
 * Clase que representa un coche con las propiedades nombre, marca y color
 * @author     Daniel Mariano Torres
-* @version    1.0.1
+* @version    1.0.3
 * @license    http://www.php.net/license/3_01.txt PHP License 3.01
 * @deprecated File deprecated in version 2.0.1
 * @method     set_nombre Hace un set del nombre en la variable pública nombre
